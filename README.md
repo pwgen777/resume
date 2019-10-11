@@ -7,6 +7,12 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 <h4>Back-end</h4>
 ⋅Ruby</br>
 ⋅Deployment</br>
+⋅Heroku</br>
 ⋅Postgres</br>
-
-
+<h4>Front-end</h4>
+⋅Bootstrap</br>
+⋅JS,HTML5,CSS</br>
+<h4>Work</h4>
+<h5>Laboratory</h5>
+  = site // https://pacific-hollows-61396.herokuapp.com/
+  = technologies // Rails, Postgres, Deployment
