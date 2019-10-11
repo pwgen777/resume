@@ -14,5 +14,5 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 ⋅JS,HTML5,CSS</br>
 <h4>Work</h4>
 <h5>Laboratory</h5>
-  = site // https://pacific-hollows-61396.herokuapp.com/
-  = technologies // Rails, Postgres, Deployment
+  = site // https://pacific-hollows-61396.herokuapp.com/ </br>
+  = technologies // Rails, Postgres, Deployment </br>
