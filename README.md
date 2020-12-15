@@ -8,12 +8,16 @@ node.js
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
 ⋅Deployment</br>
+⋅Ubuntu</br>
+⋅Nginx</br>
 ⋅Heroku</br>
 ⋅Postgres</br>
 <h4>Front-end</h4>
 ⋅Bootstrap</br>
+⋅Webpack</br>
+
 ⋅JS,HTML5,CSS</br>
 <h4>Work</h4>
-<h5>Laboratory</h5>
-  = site // https://pacific-hollows-61396.herokuapp.com/ </br>
-  = technologies // Rails, Postgres, Deployment </br>
+<h5>Assembly</h5>
+  = site // http://213.139.210.35/ </br>
+  = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
