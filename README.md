@@ -6,7 +6,7 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 <h3>Skills</h3>
 node.js
 <h4>Back-end</h4>
-⋅Ruby</br>
+⋅Ruby on rails</br>
 ⋅Deployment</br>
 ⋅Heroku</br>
 ⋅Postgres</br>
