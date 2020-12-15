@@ -25,6 +25,6 @@ I'm a self-taught full stack developer specialized on a web.
   = site // http://213.139.210.35/ </br>
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
  <h5>n+1</h5>
-  = about // Creation of parsers for scraping sites, integrating the received data in Airtable
+  = about // Creation of parsers for scraping sites, integrating the received data in Airtable </br>
   = technologies // Node.js, Airtable API, Slack API </br>
 
