@@ -3,6 +3,8 @@
 Contact:</br>
 Telegram – t.me/pwgen777</br>
 E-mail – cherepanovw.andrey@gmail.com</br>
+<h3>About</h3>
+I'm a self-taught full stack developer specialized on a web.
 <h3>Skills</h3>
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
