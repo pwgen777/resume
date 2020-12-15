@@ -13,11 +13,10 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 ⋅Postgres</br>
 <h4>Front-end</h4>
 ⋅Bootstrap</br>
+⋅JS,HTML5,CSS</br>
 ⋅Webpack</br>
 <h4>Cloud</h4>
 ⋅Amazon S3</br>
-
-⋅JS,HTML5,CSS</br>
 <h4>Work</h4>
 <h5>Assembly</h5>
   = site // http://213.139.210.35/ </br>
