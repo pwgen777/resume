@@ -6,6 +6,7 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 <h3>About</h3>
 I'm a self-taught full stack developer specialized on a web.
 <h3>Skills</h3>
+⋅Node.js</br>
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
 ⋅Deployment</br>
@@ -23,4 +24,7 @@ I'm a self-taught full stack developer specialized on a web.
 <h5>Assembly</h5>
   = site // http://213.139.210.35/ </br>
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
+ <h5>n+1</h5>
+  = about // Creation of parsers for scraping sites, integrating the received data in Airtable
+  = technologies // Node.js, Airtable API, Slack API </br>
 
