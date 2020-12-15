@@ -21,7 +21,4 @@ node.js
 <h5>Assembly</h5>
   = site // http://213.139.210.35/ </br>
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
-### Work
-**ORPK** (August, 2018 – till now), [studio.syg.ma](https://studio.syg.ma) <br>
-- site // [orpk.org](https://orpk.org/) <br>
-- technologies // Rails, Postgres, Sidekiq, Elasticsearch, Deployment, Nginx, Ubuntu 
+
