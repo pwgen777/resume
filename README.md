@@ -14,6 +14,8 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 <h4>Front-end</h4>
 ⋅Bootstrap</br>
 ⋅Webpack</br>
+<h4>Cloud</h4>
+⋅Amazon S3</br>
 
 ⋅JS,HTML5,CSS</br>
 <h4>Work</h4>
