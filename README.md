@@ -4,7 +4,6 @@ Contact:</br>
 Telegram – t.me/pwgen777</br>
 E-mail – cherepanovw.andrey@gmail.com</br>
 <h3>Skills</h3>
-node.js
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
 ⋅Deployment</br>
