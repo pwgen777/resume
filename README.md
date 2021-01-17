@@ -7,6 +7,7 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 I'm a self-taught full stack developer specialized on a web.
 <h3>Skills</h3>
 ⋅Node.js</br>
+⋅Ruby on rails</br>
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
 ⋅Deployment</br>
