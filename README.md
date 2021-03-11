@@ -29,4 +29,6 @@ I'm a self-taught full stack developer specialized on a web.
  <h5>n+1</h5>
   = about // Creation of parsers for scraping sites, integrating the received data in Airtable </br>
   = technologies // Node.js, Airtable API, Slack API </br>
-
+ <h5>Group-IB</h5>
+  = about // Мetranpag, разработка нового контента </br>
+  = technologies // Middleman </br>
