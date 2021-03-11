@@ -30,5 +30,5 @@ I'm a self-taught full stack developer specialized on a web.
   = about // Creation of parsers for scraping sites, integrating the received data in Airtable </br>
   = technologies // Node.js, Airtable API, Slack API </br>
  <h5>Group-IB</h5>
-  = about // Мetranpag, разработка нового контента </br>
+  = about // Metranpag, new content development </br>
   = technologies // Middleman </br>
